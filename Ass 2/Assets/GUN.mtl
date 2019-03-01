@@ -1,0 +1,13 @@
+# Blender MTL File: 'hjmediastudios_a1_turret.blend'
+# Material Count: 1
+
+newmtl Turret
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.220600 0.220600 0.220600
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+map_Kd My Videos (DO NOT MESS WITH)/Science Fair CGI/Turret/Textures/Turret.png
